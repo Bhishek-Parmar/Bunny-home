@@ -56,7 +56,7 @@ const HomepageEnding = () => {
             <footer className="py-4 bg-gray-800">
                 <p className="text-sm">© {new Date().getFullYear()} Team BUNNY [G7].  All rights reserved.</p>
                 <div className="mt-2">
-                    <a href="/privacy" className="text-yellow-400 hover:text-yellow-300">Privacy Policy</a> | 
+                    <a href="/privacy" className="text-yellow-400 hover:text-yellow-300">Privacy Policy</a> 
                     <a href="/terms" className="text-yellow-400 hover:text-yellow-300"> Terms of Service</a>
                 </div>
             </footer>
