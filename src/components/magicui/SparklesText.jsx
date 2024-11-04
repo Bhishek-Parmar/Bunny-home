@@ -1,8 +1,7 @@
 "use client"
 import { useEffect, useState } from "react"
 import { motion } from "framer-motion"
-
-import cn  from "../../app/lib/cn"
+import cn from "../../app/lib/cn"
 
 const SparklesText = ({
   text,
@@ -46,7 +45,7 @@ const SparklesText = ({
     const interval = setInterval(updateStars, 100)
 
     return () => clearInterval(interval)
-  }, [colors.first, colors.second])
+  }, [colors.first, colors.second, sparklesCount]) // Include sparklesCount
 
   return (
     <div
