@@ -30,7 +30,7 @@ const HomepageEnding = () => {
                     </div>
                     <div className="m-4 p-6 bg-gray-800 rounded-lg shadow-lg flex flex-col items-center">
                         <h3 className="text-xl font-semibold">Performance Analytics</h3>
-                        <p className="mt-2">Get insights into your posts' performance to refine your strategy and maximize reach.</p>
+                        <p className="mt-2">Get insights into your posts performance to refine your strategy and maximize reach.</p>
                     </div>
                 </div>
             </section>
