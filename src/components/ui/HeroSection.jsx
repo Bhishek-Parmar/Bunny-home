@@ -86,7 +86,7 @@ const HeroSection = () => {
                 </motion.a>
 
                 <motion.a
-                  href="#"
+                  href="https://bunny-ai-post-generator-xp8y-cyan.vercel.app/dashboard"
                   title="Sign Up"
                   className="inline-flex items-center justify-center px-5 py-2 font-sans text-base font-normal leading-7 transition-all duration-200 border-2 rounded-full text-white border-primary focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary hover:bg-white hover:text-black focus:ring-offset-secondary"
                   whileHover={{ scale: 1.05 }}

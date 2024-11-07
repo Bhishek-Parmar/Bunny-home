@@ -11,7 +11,7 @@ const HomepageEnding = () => {
                 Join us today and discover how our AI-powered social media manager can help you generate engaging content effortlessly!
             </p>
             <a
-                href="/signup"
+                href="https://bunny-ai-post-generator-xp8y-cyan.vercel.app/dashboard"
                 className="bg-yellow-400 text-black px-6 py-3 rounded-lg text-lg font-semibold transition duration-300 hover:bg-yellow-300"
             >
                 Get Started
